@@ -7,6 +7,12 @@ body {
      font-weight: bold;
 }
 
+#wip {
+  color: salmon;
+  font-family: "Verdana";
+  font-style: italic;
+}
+
 a { color: lightGreen; }
 a:hover { color: green; }
 a:visited { color: seaGreen; }
